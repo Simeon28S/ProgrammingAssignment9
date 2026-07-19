@@ -1,7 +1,7 @@
 # Programming Assignment 9
 # Simeon Sipes
 # 07/19/26
-# Simple linear regression using the mtcars dataset
+# Linear regression using the mtcars dataset
 
 # Create a scatterplot of MPG based on vehicle weight.
 plot(mtcars$wt, mtcars$mpg,
