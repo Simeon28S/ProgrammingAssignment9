@@ -1,4 +1,4 @@
-# cop2073c-pa9.R
+# Programming Assignment 9
 # Simeon Sipes
 # 07/19/26
 # Simple linear regression using the mtcars dataset
